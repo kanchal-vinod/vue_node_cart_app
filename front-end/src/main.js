@@ -24,7 +24,7 @@ createApp(App)
         component: ProductDetails
       },
       {
-        path:'/:PathMatch/(.*)*',
+        path:'/:catchAll(.*)',
         component:PageNotFoundPage,
       },
   ]

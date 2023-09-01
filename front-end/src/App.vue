@@ -12,7 +12,6 @@ export default {
   name: 'App',
   components: {
     Navbar ,
-    gdfhfgh
   }
 }
 </script>
